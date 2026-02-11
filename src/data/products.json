@@ -1,0 +1,767 @@
+[
+    {
+        "sku": "KB-LOGI-K120",
+        "name": "Logitech K120 Keyboard",
+        "category": "Keyboard",
+        "price": 399,
+        "stock": 18,
+        "warranty_months": 12,
+        "tags": ["คีย์บอร์ด", "usb", "ทำงาน", "แป้นพิมพ์", "โลจิเทค", "keyboard", "พิมพ์งาน"]
+    },
+    {
+        "sku": "MS-LOGI-M185",
+        "name": "Logitech M185 Mouse",
+        "category": "Mouse",
+        "price": 349,
+        "stock": 25,
+        "warranty_months": 12,
+        "tags": ["เมาส์", "ไร้สาย", "เม้าส์", "mouse", "โลจิเทค", "logitech", "ตัวคลิก"]
+    },
+    {
+        "sku": "HD-SSD-1TB",
+        "name": "SSD NVMe 1TB Gen3",
+        "category": "Storage",
+        "price": 1890,
+        "stock": 7,
+        "warranty_months": 36,
+        "tags": ["ssd", "nvme", "1tb", "เอสเอสดี", "ความจุ", "เพิ่มความเร็วคอม", "storage"]
+    },
+    {
+        "sku": "HD-HDD-2TB",
+        "name": "HDD 2TB 3.5\"",
+        "category": "Storage",
+        "price": 1650,
+        "stock": 5,
+        "warranty_months": 24,
+        "tags": ["hdd", "2tb", "ฮาร์ดดิสก์", "เก็บข้อมูล", "จานหมุน", "storage"]
+    },
+    {
+        "sku": "RAM-DDR4-16",
+        "name": "RAM DDR4 16GB 3200",
+        "category": "RAM",
+        "price": 1290,
+        "stock": 10,
+        "warranty_months": 36,
+        "tags": ["ram", "ddr4", "16gb", "แรม", "หน่วยความจำ", "memory"]
+    },
+    {
+        "sku": "RTR-AX1800",
+        "name": "Wi-Fi Router AX1800",
+        "category": "Network",
+        "price": 1490,
+        "stock": 6,
+        "warranty_months": 24,
+        "tags": ["router", "wifi6", "เราเตอร์", "ไวไฟ", "เน็ต", "กระจายสัญญาณ", "internet"]
+    },
+    {
+        "sku": "MON-24FHD",
+        "name": "Monitor 24\" FHD 75Hz",
+        "category": "Monitor",
+        "price": 3290,
+        "stock": 4,
+        "warranty_months": 36,
+        "tags": ["จอ", "24นิ้ว", "fhd", "จอมอนิเตอร์", "หน้าจอ", "screen", "monitor"]
+    },
+    {
+        "sku": "HDP-USBC-7IN1",
+        "name": "USB-C Hub 7-in-1",
+        "category": "Accessory",
+        "price": 990,
+        "stock": 12,
+        "warranty_months": 12,
+        "tags": ["hub", "usb-c", "hdmi", "ฮับ", "ตัวแปลง", "ตัวต่อ", "adapter"]
+    },
+    {
+        "sku": "CB-LAN-10M",
+        "name": "LAN Cable CAT6 10m",
+        "category": "Cable",
+        "price": 120,
+        "stock": 40,
+        "warranty_months": 0,
+        "tags": ["สายแลน", "cat6", "สายเน็ต", "lan cable", "internet"]
+    },
+    {
+        "sku": "CAM-1080P",
+        "name": "Webcam 1080p",
+        "category": "Accessory",
+        "price": 790,
+        "stock": 9,
+        "warranty_months": 12,
+        "tags": ["เว็บแคม", "เรียนออนไลน์", "กล้อง", "กล้องติดคอม", "camera", "webcam"]
+    },
+    {
+        "sku": "HS-USB",
+        "name": "USB Headset",
+        "category": "Audio",
+        "price": 650,
+        "stock": 8,
+        "warranty_months": 12,
+        "tags": ["หูฟัง", "ไมค์", "usb", "เฮดเซ็ต", "headphone", "ประชุม"]
+    },
+    {
+        "sku": "UPS-650VA",
+        "name": "UPS 650VA",
+        "category": "Power",
+        "price": 2190,
+        "stock": 3,
+        "warranty_months": 24,
+        "tags": ["ups", "สำรองไฟ", "เครื่องสำรองไฟ", "กันไฟดับ", "battery"]
+    },
+    {
+        "sku": "CASE-SPK-01",
+        "name": "Computer Case Speaker Edition",
+        "category": "Case",
+        "price": 1890,
+        "stock": 6,
+        "warranty_months": 12,
+        "tags": ["เคสคอม", "case", "กล่องคอม", "pc case", "เคสเปล่า"]
+    },
+    {
+        "sku": "PC-LEN-01",
+        "name": "Lenovo IdeaCentre 3 (07IAB7)",
+        "category": "Computer",
+        "price": 16900,
+        "stock": 4,
+        "warranty_months": 24,
+        "tags": ["lenovo", "ideacentre", "ออฟฟิศ", "คอม", "พีซี", "คอมตั้งโต๊ะ", "เลอโนโว", "computer"]
+    },
+    {
+        "sku": "PC-LEN-02",
+        "name": "Lenovo IdeaCentre AIO 3 (F0GH00)",
+        "category": "Computer",
+        "price": 21500,
+        "stock": 3,
+        "warranty_months": 24,
+        "tags": ["lenovo", "aio", "เรียนออนไลน์", "คอม", "ออลอินวัน", "คอมจอในตัว", "เลอโนโว"]
+    },
+    {
+        "sku": "PC-LEN-03",
+        "name": "Lenovo ThinkCentre Neo 50s (11SX00)",
+        "category": "Computer",
+        "price": 23900,
+        "stock": 2,
+        "warranty_months": 36,
+        "tags": ["lenovo", "thinkcentre", "ธุรกิจ", "คอม", "พีซี", "computer", "เลอโนโว"]
+    },
+    {
+        "sku": "PC-LEN-04",
+        "name": "Lenovo Legion T5 (90RC00)",
+        "category": "Computer",
+        "price": 35900,
+        "stock": 1,
+        "warranty_months": 24,
+        "tags": ["lenovo", "legion", "เกมมิ่ง", "คอม", "คอมเล่นเกม", "gaming pc", "เลอโนโว"]
+    },
+    {
+        "sku": "PC-ACER-01",
+        "name": "Acer Aspire TC-1760",
+        "category": "Computer",
+        "price": 16500,
+        "stock": 5,
+        "warranty_months": 24,
+        "tags": ["acer", "aspire", "ใช้งานทั่วไป", "คอม", "พีซี", "เอเซอร์", "computer"]
+    },
+    {
+        "sku": "PC-ACER-02",
+        "name": "Acer Aspire C22 (C22-1800)",
+        "category": "Computer",
+        "price": 19900,
+        "stock": 4,
+        "warranty_months": 24,
+        "tags": ["acer", "aio", "นักเรียน", "คอม", "ออลอินวัน", "เอเซอร์", "computer"]
+    },
+    {
+        "sku": "PC-ACER-03",
+        "name": "Acer Veriton X4660G",
+        "category": "Computer",
+        "price": 22900,
+        "stock": 2,
+        "warranty_months": 36,
+        "tags": ["acer", "veriton", "องค์กร", "คอม", "พีซี", "เอเซอร์", "computer"]
+    },
+    {
+        "sku": "PC-ACER-04",
+        "name": "Acer Predator Orion 3000 (PO3-640)",
+        "category": "Computer",
+        "price": 39900,
+        "stock": 1,
+        "warranty_months": 24,
+        "tags": ["acer", "predator", "เกมมิ่ง", "คอม", "คอมแรง", "gaming pc", "เอเซอร์"]
+    },
+    {
+        "sku": "PC-MSI-01",
+        "name": "MSI PRO DP20Z",
+        "category": "Computer",
+        "price": 18900,
+        "stock": 3,
+        "warranty_months": 24,
+        "tags": ["msi", "pro", "ออฟฟิศ", "คอม", "พีซี", "เอ็มเอสไอ", "computer"]
+    },
+    {
+        "sku": "PC-MSI-02",
+        "name": "MSI Modern AM242",
+        "category": "Computer",
+        "price": 22900,
+        "stock": 2,
+        "warranty_months": 24,
+        "tags": ["msi", "aio", "ทำงาน", "คอม", "ออลอินวัน", "เอ็มเอสไอ"]
+    },
+    {
+        "sku": "PC-MSI-03",
+        "name": "MSI MAG Infinite S3 (13TC)",
+        "category": "Computer",
+        "price": 34900,
+        "stock": 1,
+        "warranty_months": 24,
+        "tags": ["msi", "gaming", "เกมมิ่ง", "คอม", "คอมเล่นเกม", "เอ็มเอสไอ"]
+    },
+    {
+        "sku": "PC-MSI-04",
+        "name": "MSI Creator P100X",
+        "category": "Computer",
+        "price": 45900,
+        "stock": 1,
+        "warranty_months": 24,
+        "tags": ["msi", "creator", "กราฟิก", "คอม", "คอมตัดต่อ", "workstation", "เอ็มเอสไอ"]
+    },
+    {
+        "sku": "PC-ASUS-G01",
+        "name": "ASUS ROG Strix G15 (G15DK)",
+        "category": "Computer",
+        "price": 32900,
+        "stock": 2,
+        "warranty_months": 24,
+        "tags": ["asus", "rog", "g-series", "เกมมิ่ง", "คอม", "เอซุส", "gaming pc"]
+    },
+    {
+        "sku": "PC-ASUS-G02",
+        "name": "ASUS ROG Strix G16 (G16CH)",
+        "category": "Computer",
+        "price": 38900,
+        "stock": 2,
+        "warranty_months": 24,
+        "tags": ["asus", "rog", "g-series", "gaming", "คอม", "คอมเล่นเกม", "เอซุส"]
+    },
+    {
+        "sku": "PC-ASUS-G03",
+        "name": "ASUS ROG G22CH",
+        "category": "Computer",
+        "price": 42900,
+        "stock": 1,
+        "warranty_months": 24,
+        "tags": ["asus", "rog", "g-series", "compact-gaming", "คอม", "เอซุส", "computer"]
+    },
+    {
+        "sku": "PC-ASUS-G04",
+        "name": "ASUS ROG Strix GA35",
+        "category": "Computer",
+        "price": 59900,
+        "stock": 1,
+        "warranty_months": 24,
+        "tags": ["asus", "rog", "g-series", "high-end", "คอม", "คอมเทพ", "เอซุส"]
+    },
+    {
+        "sku": "SPK-JBL-01",
+        "name": "JBL Go 3",
+        "category": "Speaker",
+        "price": 1490,
+        "stock": 8,
+        "warranty_months": 12,
+        "tags": ["jbl", "speaker", "portable", "ลำโพง", "บลูทูธ", "เจบีแอล", "ลำโพงพกพา"]
+    },
+    {
+        "sku": "SPK-JBL-02",
+        "name": "JBL Flip 6",
+        "category": "Speaker",
+        "price": 4490,
+        "stock": 5,
+        "warranty_months": 12,
+        "tags": ["jbl", "speaker", "bluetooth", "ลำโพง", "เจบีแอล", "กันน้ำ"]
+    },
+    {
+        "sku": "SPK-JBL-03",
+        "name": "JBL Charge 5",
+        "category": "Speaker",
+        "price": 5990,
+        "stock": 4,
+        "warranty_months": 12,
+        "tags": ["jbl", "speaker", "bass", "ลำโพง", "เจบีแอล", "แบตอึด"]
+    },
+    {
+        "sku": "SPK-JBL-04",
+        "name": "JBL PartyBox 110",
+        "category": "Speaker",
+        "price": 12900,
+        "stock": 2,
+        "warranty_months": 12,
+        "tags": ["jbl", "speaker", "party", "ลำโพง", "เจบีแอล", "ปาร์ตี้", "คาราโอเกะ"]
+    },
+    {
+        "sku": "SPK-MAR-01",
+        "name": "Marshall Emberton II",
+        "category": "Speaker",
+        "price": 6990,
+        "stock": 5,
+        "warranty_months": 12,
+        "tags": ["marshall", "speaker", "portable", "ลำโพง", "มาร์แชล", "พกพา"]
+    },
+    {
+        "sku": "SPK-MAR-02",
+        "name": "Marshall Willen",
+        "category": "Speaker",
+        "price": 3990,
+        "stock": 6,
+        "warranty_months": 12,
+        "tags": ["marshall", "speaker", "bluetooth", "ลำโพง", "มาร์แชล", "ตัวเล็ก"]
+    },
+    {
+        "sku": "SPK-MAR-03",
+        "name": "Marshall Acton II Bluetooth",
+        "category": "Speaker",
+        "price": 9990,
+        "stock": 3,
+        "warranty_months": 12,
+        "tags": ["marshall", "speaker", "home", "ลำโพง", "มาร์แชล", "ตั้งโต๊ะ"]
+    },
+    {
+        "sku": "SPK-MAR-04",
+        "name": "Marshall Stanmore II Bluetooth",
+        "category": "Speaker",
+        "price": 12900,
+        "stock": 2,
+        "warranty_months": 12,
+        "tags": ["marshall", "speaker", "classic", "ลำโพง", "มาร์แชล", "เสียงดี"]
+    },
+    {
+        "sku": "KB-LOGI-01",
+        "name": "Logitech G Pro X Mechanical Keyboard",
+        "category": "Keyboard",
+        "price": 4490,
+        "stock": 4,
+        "warranty_months": 24,
+        "tags": ["logitech", "keyboard", "mechanical", "gaming", "คีย์บอร์ด", "แมคคานิคอล", "โลจิเทค", "แป้นพิมพ์"]
+    },
+    {
+        "sku": "KB-RAZER-01",
+        "name": "Razer BlackWidow V3",
+        "category": "Keyboard",
+        "price": 4990,
+        "stock": 3,
+        "warranty_months": 24,
+        "tags": ["razer", "keyboard", "mechanical", "rgb", "คีย์บอร์ด", "เรเซอร์", "มีไฟ"]
+    },
+    {
+        "sku": "KB-CORSAIR-01",
+        "name": "Corsair K70 RGB MK.2",
+        "category": "Keyboard",
+        "price": 5590,
+        "stock": 2,
+        "warranty_months": 24,
+        "tags": ["corsair", "keyboard", "mechanical", "gaming", "คีย์บอร์ด", "คอร์แชร์", "เล่นเกม"]
+    },
+    {
+        "sku": "KB-KEYCHRON-01",
+        "name": "Keychron K8 Pro",
+        "category": "Keyboard",
+        "price": 3690,
+        "stock": 5,
+        "warranty_months": 12,
+        "tags": ["keychron", "keyboard", "mechanical", "wireless", "คีย์บอร์ด", "คีย์ครอน", "ไร้สาย"]
+    },
+    {
+        "sku": "MS-LOGI-01",
+        "name": "Logitech G Pro X Superlight",
+        "category": "Mouse",
+        "price": 4990,
+        "stock": 4,
+        "warranty_months": 24,
+        "tags": ["logitech", "mouse", "gaming", "wireless", "เมาส์", "เม้าส์", "โลจิเทค", "ไร้สาย"]
+    },
+    {
+        "sku": "MS-RAZER-01",
+        "name": "Razer DeathAdder V3 Pro",
+        "category": "Mouse",
+        "price": 5390,
+        "stock": 3,
+        "warranty_months": 24,
+        "tags": ["razer", "mouse", "gaming", "esport", "เมาส์", "เม้าส์", "เรเซอร์"]
+    },
+    {
+        "sku": "MS-CORSAIR-01",
+        "name": "Corsair M65 RGB Ultra",
+        "category": "Mouse",
+        "price": 3490,
+        "stock": 5,
+        "warranty_months": 24,
+        "tags": ["corsair", "mouse", "rgb", "gaming", "เมาส์", "เม้าส์", "คอร์แชร์"]
+    },
+    {
+        "sku": "MS-STEEL-01",
+        "name": "SteelSeries Rival 5",
+        "category": "Mouse",
+        "price": 2990,
+        "stock": 6,
+        "warranty_months": 24,
+        "tags": ["steelseries", "mouse", "gaming", "เมาส์", "เม้าส์", "สตีลซีรีส์", "เล่นเกม"]
+    },
+    {
+        "sku": "TAB-IPAD-AIR5-64",
+        "name": "iPad Air 5 (Wi-Fi) 64GB",
+        "category": "Tablet",
+        "price": 23900,
+        "stock": 5,
+        "warranty_months": 12,
+        "tags": ["ipad", "ไอแพด", "apple", "tablet", "เรียน", "แอปเปิ้ล", "แท็บเล็ต"]
+    },
+    {
+        "sku": "TAB-SAM-S9FE",
+        "name": "Samsung Galaxy Tab S9 FE",
+        "category": "Tablet",
+        "price": 16990,
+        "stock": 4,
+        "warranty_months": 12,
+        "tags": ["tablet", "แท็บเล็ต", "samsung", "android", "ปากกา", "ซัมซุง", "แอนดรอยด์"]
+    },
+    {
+        "sku": "NB-DELL-XPS13",
+        "name": "Dell XPS 13 Plus 9320",
+        "category": "Notebook",
+        "price": 69900,
+        "stock": 2,
+        "warranty_months": 36,
+        "tags": ["notebook", "ultrabook", "premium", "dell", "windows", "โน้ตบุ๊ก", "แล็ปท็อป", "เดลล์", "คอมพกพา"]
+    },
+    {
+        "sku": "NB-LENOVO-YOGA",
+        "name": "Lenovo Yoga Slim 7i Carbon",
+        "category": "Notebook",
+        "price": 39990,
+        "stock": 3,
+        "warranty_months": 24,
+        "tags": ["notebook", "บางเบา", "lenovo", "yoga", "ทำงาน", "โน้ตบุ๊ก", "แล็ปท็อป", "เลอโนโว"]
+    },
+    {
+        "sku": "GAME-ROG-ALLY",
+        "name": "ASUS ROG Ally (Z1 Extreme)",
+        "category": "Gaming Console",
+        "price": 24990,
+        "stock": 5,
+        "warranty_months": 24,
+        "tags": ["handheld", "เกมพกพา", "rog", "console", "windows", "เครื่องเกม", "เอซุส"]
+    },
+    {
+        "sku": "GAME-PS5-SLIM",
+        "name": "Sony PlayStation 5 Slim (Disc)",
+        "category": "Gaming Console",
+        "price": 18690,
+        "stock": 3,
+        "warranty_months": 12,
+        "tags": ["ps5", "playstation", "console", "sony", "เกม", "เพลย์5", "โซนี่", "เครื่องเกม"]
+    },
+    {
+        "sku": "CON-PS5-DUAL",
+        "name": "Sony DualSense Wireless Controller",
+        "category": "Gadget",
+        "price": 2390,
+        "stock": 10,
+        "warranty_months": 12,
+        "tags": ["joystick", "จอย", "ps5", "controller", "จอยเกม", "โซนี่"]
+    },
+    {
+        "sku": "VR-META-QUEST3",
+        "name": "Meta Quest 3 (128GB)",
+        "category": "Gadget",
+        "price": 22900,
+        "stock": 2,
+        "warranty_months": 12,
+        "tags": ["vr", "meta", "แว่นvr", "virtual reality", "เกม", "แว่นสามมิติ"]
+    },
+    {
+        "sku": "SMT-WATCH-APPLE-S9",
+        "name": "Apple Watch Series 9 GPS 41mm",
+        "category": "Smartwatch",
+        "price": 15900,
+        "stock": 4,
+        "warranty_months": 12,
+        "tags": ["smartwatch", "นาฬิกา", "apple", "สุขภาพ", "สมาร์ทวอทช์", "แอปเปิ้ลวอทช์"]
+    },
+    {
+        "sku": "SMT-WATCH-GARMIN-55",
+        "name": "Garmin Forerunner 55",
+        "category": "Smartwatch",
+        "price": 6790,
+        "stock": 5,
+        "warranty_months": 12,
+        "tags": ["smart watch", "garmin", "วิ่ง", "ออกกำลังกาย", "นาฬิกา", "การ์มิน"]
+    },
+    {
+        "sku": "MS-LOGI-MX-MASTER3S",
+        "name": "Logitech MX Master 3S",
+        "category": "Mouse",
+        "price": 3990,
+        "stock": 10,
+        "warranty_months": 12,
+        "tags": ["mouse", "ทำงาน", "wireless", "logitech", "mac/pc", "เมาส์", "เม้าส์", "โลจิเทค", "ไร้สาย"]
+    },
+    {
+        "sku": "KB-LOGI-MX-KEYS-S",
+        "name": "Logitech MX Keys S",
+        "category": "Keyboard",
+        "price": 4290,
+        "stock": 8,
+        "warranty_months": 12,
+        "tags": ["keyboard", "ทำงาน", "wireless", "logitech", "พิมพ์งาน", "คีย์บอร์ด", "แป้นพิมพ์", "โลจิเทค"]
+    },
+    {
+        "sku": "SSD-WD-BLACK-SN850X",
+        "name": "WD_BLACK SN850X NVMe SSD 1TB",
+        "category": "Storage",
+        "price": 3590,
+        "stock": 8,
+        "warranty_months": 60,
+        "tags": ["ssd", "wd black", "gaming", "gen4", "ps5", "เอสเอสดี", "ความจุ"]
+    },
+    {
+        "sku": "SSD-SATA-KSTON-480",
+        "name": "Kingston A400 SSD 480GB SATA",
+        "category": "Storage",
+        "price": 1190,
+        "stock": 15,
+        "warranty_months": 36,
+        "tags": ["ssd", "sata", "อัพเกรดคอม", "ถูก", "เอสเอสดี", "คิงส์ตัน"]
+    },
+    {
+        "sku": "AP-UBIQUITI-U6",
+        "name": "Ubiquiti UniFi 6 Lite (U6-Lite)",
+        "category": "Network",
+        "price": 3990,
+        "stock": 4,
+        "warranty_months": 12,
+        "tags": ["access point", "wifi6", "unifi", "องค์กร", "poe","ตัวกระจาย WiFi","ตัวกระจายไวไฟ", "เน็ต"]
+    },
+    {
+        "sku": "CAM-XIAOMI-C200",
+        "name": "Xiaomi Smart Camera C200",
+        "category": "Smart Home",
+        "price": 990,
+        "stock": 20,
+        "warranty_months": 12,
+        "tags": ["กล้องวงจรปิด", "security", "xiaomi", "wifi", "กล้อง", "ip camera", "เสี่ยวหมี่"]
+    },
+    {
+        "sku": "PLUG-TAPO-P100",
+        "name": "TP-Link Tapo P100 Smart Plug",
+        "category": "Smart Home",
+        "price": 299,
+        "stock": 30,
+        "warranty_months": 12,
+        "tags": ["ปลั๊กอัจฉริยะ", "iot", "smart home", "สั่งผ่านมือถือ", "ปลั๊กไฟ", "ทีพีลิงค์"]
+    },
+    {
+        "sku": "PRJ-WANBO-T2",
+        "name": "Wanbo T2 Max (New) Projector",
+        "category": "Gadget",
+        "price": 5990,
+        "stock": 6,
+        "warranty_months": 12,
+        "tags": ["projector", "โปรเจคเตอร์", "ดูหนัง", "1080p", "เครื่องฉาย"]
+    },
+    {
+        "sku": "HS-BOSE-QC-ULTRA",
+        "name": "Bose QuietComfort Ultra Headphones",
+        "category": "Audio",
+        "price": 15900,
+        "stock": 2,
+        "warranty_months": 12,
+        "tags": ["headphone", "หูฟังครอบหู", "ตัดเสียงรบกวน", "bose", "hi-end", "โบส", "หูฟัง"]
+    },
+    {
+        "sku": "MIC-BLUE-YETI",
+        "name": "Blue Yeti Nano Microphone",
+        "category": "Streaming",
+        "price": 3890,
+        "stock": 4,
+        "warranty_months": 24,
+        "tags": ["ไมค์", "microphone", "podcast", "logitech g", "ไมโครโฟน", "สตรีม"]
+    },
+    {
+        "sku": "CAP-ELGATO-HD60X",
+        "name": "Elgato Game Capture HD60 X",
+        "category": "Streaming",
+        "price": 6590,
+        "stock": 3,
+        "warranty_months": 24,
+        "tags": ["capture card", "การ์ดตัดต่อ", "สตรีมเกม", "elgato", "กล่องแคปเจอร์", "ตัวจับภาพ"]
+    },
+    {
+        "sku": "MON-ASUS-PROART",
+        "name": "ASUS ProArt PA278QV 27\" IPS",
+        "category": "Monitor",
+        "price": 10900,
+        "stock": 3,
+        "warranty_months": 36,
+        "tags": ["monitor", "จอแต่งภาพ", "srgb", "asus", "ทำงาน", "จอคอม", "เอซุส"]
+    },
+    {
+        "sku": "CASE-NZXT-H5",
+        "name": "NZXT H5 Flow (White)",
+        "category": "Case",
+        "price": 3190,
+        "stock": 5,
+        "warranty_months": 24,
+        "tags": ["case", "เคส", "airflow", "สีขาว", "มินิมอล", "เคสคอม"]
+    },
+    {
+        "sku": "FAN-LIANLI-UNI",
+        "name": "Lian Li UNI FAN SL120 V2 (Pack 3)",
+        "category": "Cooling",
+        "price": 2990,
+        "stock": 4,
+        "warranty_months": 24,
+        "tags": ["fan", "พัดลมเคส", "rgb", "lian li", "พัดลมคอม", "ชุดพัดลม"]
+    },
+    {
+        "sku": "CPU-INTEL-I7-14700K",
+        "name": "Intel Core i7-14700K",
+        "category": "CPU",
+        "price": 15900,
+        "stock": 4,
+        "warranty_months": 36,
+        "tags": ["cpu", "intel", "i7", "gaming", "workstation", "ซีพียู", "อินเทล"]
+    },
+    {
+        "sku": "VGA-RTX4080S",
+        "name": "ZOTAC Gaming GeForce RTX 4080 Super",
+        "category": "VGA",
+        "price": 42900,
+        "stock": 2,
+        "warranty_months": 36,
+        "tags": ["vga", "การ์ดจอ", "nvidia", "rtx4080", "4k gaming", "กราฟิกการ์ด"]
+    },
+    {
+        "sku": "SW-IDM-LIFE",
+        "name": "Internet Download Manager (Lifetime)",
+        "category": "Software",
+        "price": 790,
+        "stock": 50,
+        "warranty_months": 0,
+        "tags": ["software", "idm", "ช่วยดาวน์โหลด", "ลิขสิทธิ์", "โปรแกรม", "ซอฟต์แวร์"]
+    },
+    {
+        "sku": "ACC-STD-NB-ALU",
+        "name": "Aluminum Laptop Stand Adjustable",
+        "category": "Accessory",
+        "price": 490,
+        "stock": 15,
+        "warranty_months": 0,
+        "tags": ["ขาตั้งโน้ตบุ๊ก", "laptop stand", "ergonomic", "ที่วางโน้ตบุ๊ก"]
+    },
+    {
+        "sku": "ACC-BAG-TARGUS",
+        "name": "Targus Intellect Backpack 15.6\"",
+        "category": "Accessory",
+        "price": 690,
+        "stock": 10,
+        "warranty_months": 12,
+        "tags": ["กระเป๋า", "เป้", "notebook bag", "targus", "กระเป๋าคอม"]
+    },
+    {
+        "sku": "UPS-SYNDOME-ATOM",
+        "name": "Syndome ATOM 850VA/480W",
+        "category": "Power",
+        "price": 1690,
+        "stock": 6,
+        "warranty_months": 24,
+        "tags": ["ups", "สำรองไฟ", "ราคาประหยัด", "syndome", "เครื่องสำรองไฟ"]
+    },
+    {
+        "sku": "CBL-DP-UGREEN",
+        "name": "UGREEN DisplayPort 1.4 Cable (2m)",
+        "category": "Cable",
+        "price": 390,
+        "stock": 15,
+        "warranty_months": 12,
+        "tags": ["displayport", "สายจอ", "144hz", "ugreen", "สายดิสเพลย์", "ยูกรีน"]
+    },
+    {
+        "sku": "CBL-IPHONE-UGREEN",
+        "name": "UGREEN USB-C to Lightning Cable",
+        "category": "Cable",
+        "price": 350,
+        "stock": 20,
+        "warranty_months": 12,
+        "tags": ["สายชาร์จ", "iphone", "lightning", "mfi", "สายไอโฟน", "ยูกรีน"]
+    },
+    {
+        "sku": "ACC-DUSTER-ELEC",
+        "name": "Electric Air Duster 60000RPM",
+        "category": "Accessory",
+        "price": 890,
+        "stock": 8,
+        "warranty_months": 3,
+        "tags": ["เป่าฝุ่น", "ทำความสะอาดคอม", "ไร้สาย", "ที่เป่าฝุ่น"]
+    },
+    {
+        "sku": "CHAIR-SECRETLAB",
+        "name": "Secretlab TITAN Evo 2022",
+        "category": "Furniture",
+        "price": 18900,
+        "stock": 1,
+        "warranty_months": 60,
+        "tags": ["เก้าอี้", "gaming chair", "premium", "secretlab", "เก้าอี้เกมมิ่ง", "เก้าอี้คอม"]
+    },
+    {
+        "sku": "GDT-GOPRO-12",
+        "name": "GoPro HERO12 Black",
+        "category": "Gadget",
+        "price": 13900,
+        "stock": 3,
+        "warranty_months": 12,
+        "tags": ["camera", "action camera", "gopro", "กันน้ำ", "กล้อง", "วิดีโอ", "โกโปร"]
+    },
+    {
+        "sku": "GDT-DJI-MINI4",
+        "name": "DJI Mini 4 Pro (DJI RC 2)",
+        "category": "Gadget",
+        "price": 34990,
+        "stock": 2,
+        "warranty_months": 12,
+        "tags": ["drone", "โดรน", "dji", "ถ่ายภาพ", "ดีเจไอ", "เครื่องบินบังคับ"]
+    },
+    {
+        "sku": "ACC-PEN-APPLE-USBC",
+        "name": "Apple Pencil (USB-C)",
+        "category": "Accessory",
+        "price": 3190,
+        "stock": 6,
+        "warranty_months": 12,
+        "tags": ["ปากกา", "stylus", "ipad", "apple", "แอปเปิ้ลเพนซิล", "ปากกาไอแพด"]
+    },
+    {
+        "sku": "PRN-HP-M111W",
+        "name": "HP LaserJet M111w",
+        "category": "Printer",
+        "price": 3290,
+        "stock": 4,
+        "warranty_months": 36,
+        "tags": ["printer", "laser", "ขาวดำ", "hp", "ขนาดเล็ก", "ปริ้นเตอร์", "เครื่องปริ้น", "เอชพี"]
+    },
+    {
+        "sku": "SCN-CANON-LIDE300",
+        "name": "Canon LiDE 300 Scanner",
+        "category": "Scanner",
+        "price": 2190,
+        "stock": 3,
+        "warranty_months": 12,
+        "tags": ["scanner", "สแกนเนอร์", "canon", "เอกสาร", "แคนนอน", "เครื่องสแกน"]
+    },
+    {
+        "sku": "AUD-SENN-HD560S",
+        "name": "Sennheiser HD 560S",
+        "category": "Audio",
+        "price": 7990,
+        "stock": 2,
+        "warranty_months": 24,
+        "tags": ["headphone", "audiophile", "ฟังเพลง", "เสียงดี", "หูฟัง", "เซนไฮเซอร์"]
+    }
+  ]

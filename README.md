@@ -1,36 +1,37 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+📘 Web Voice Product Finder
 
-## Getting Started
+Course: Introduction to Artificial Intelligence (Year 2)
+Project Type: Web Application with AI Integration
+Technology: n8n (AI Workflow Automation)
 
-First, run the development server:
+🔎 Project Overview
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+This project is a Web Voice Product Finder designed to help users search for products available in a store using voice commands. The system applies fundamental Artificial Intelligence concepts by integrating voice processing and automated workflows through n8n, enabling users to interact with the system in a more natural and convenient way.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+This repository was developed as part of the Introduction to Artificial Intelligence course to demonstrate the practical implementation of AI technologies in web applications.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+✨ Features
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+🎤 Voice-based product search
 
-## Learn More
+🛍️ Product availability detection within the store
 
-To learn more about Next.js, take a look at the following resources:
+🤖 AI workflow automation using n8n
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+🌐 User-friendly web interface
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+⚡ Fast and efficient search response
 
-## Deploy on Vercel
+🧠 AI Implementation
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+The project uses n8n to manage AI workflows, including voice input processing, command interpretation, and product data retrieval. This demonstrates how AI automation can enhance user experience and system efficiency.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+👥 Team Members
+
+67022502 นางสาวกันยรัตน์ พันธ์ศรีชนะ
+67022681 นางสาวปัญญาพร พลซา
+67022805 นางสาวรติรัตน์ เรือนคำ
+
+🎓 Academic Information
+
+This project is developed for educational purposes as part of the Introduction to Artificial Intelligence course for second-year students.
